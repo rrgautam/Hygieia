@@ -2,7 +2,7 @@
 
 Following are the key features delivered with Hygieia 2.0
 
-- A Product or Program level view
+- A Product or Program level view.
 - Displaying flow of commits from commit to production stages on the new view
 - Allowing Github webhook to push data into Hygieia
 - A Jenkins plugin to publish data into Hygieia
