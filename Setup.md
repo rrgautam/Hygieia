@@ -16,7 +16,7 @@ The following components are required to run Hygieia℠:
 * MongoDB 3.0+
      * [Download & Installation instructions](https://www.mongodb.org/downloads#previous)
      * Configure MongoDB
-      * Go to the bin directory of your mongodb installation and run the following command to start the mongodb do make sure that data directory should pre-exist at the target location.<br/>
+      * Go to the bin directory of your mongodb installation and run the following command to start mongodb do make sure that data directory should pre-exist at the target location.<br/>
        <code>mongod --dbpath < path to the data directory> </code> <br/>
        for e.g <code> /usr/bin/mongodb-linux-x86_64-2.6.3/bin/mongod --dbpath /dev/data/db </code>
       * Run the following commands as shown below at mongodb command prompt
