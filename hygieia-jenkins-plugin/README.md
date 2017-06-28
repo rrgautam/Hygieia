@@ -47,4 +47,5 @@ This plugin uses the Hygieia core package. The main project is JDK 1.8 compiled,
 5. Select what to send to Hygieia. Currently, "Build", "Artifact Info", "Sonar Anslysis", "Deployment" and "Cucumber Test Results" can be published. 
 
 ![Image](../media/images/jenkins-job-config.png)
+Builder changes for jenkins plugin
 
